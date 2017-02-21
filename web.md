@@ -1,13 +1,14 @@
 
 # _api/web
 
-- Name="Microsoft.SharePoint.Client.Web" 
-- ScriptName="SP.Web" 
-- OriginalName="T:Microsoft.SharePoint.SPWeb" 
-- BaseType="Microsoft.SharePoint.Client.SecurableObject" 
-- SampleUrl="_api/web" 
-- RESTfulPatchUpdateMethod="Update" 
-- RESTfulPutUpdateMethod="Update" RESTfulDeleteMethod="DeleteObject"
+- REST URL - _api/web 
+- Script Name - SP.Web 
+- CSOM Name - Microsoft.SharePoint.Client.Web
+- Server side name - T:Microsoft.SharePoint.SPWeb 
+- Base Type="Microsoft.SharePoint.Client.SecurableObject" 
+- RESTful Patch Update Method - Update 
+- RESTful Put Update Method - Update
+- RESTful Delete Method - DeleteObject
 
 ## Methods
 
